@@ -1,0 +1,16 @@
+{
+    "name": "puri/mee-bot-php",
+    "require": {
+        "illuminate/database": "^5.4",
+        "linecorp/line-bot-sdk": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Puri Phakmongkol",
+            "email": "pandachamp@me.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Meebot\\": "Meebot/"}
+    }
+}
