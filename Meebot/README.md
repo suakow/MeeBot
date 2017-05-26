@@ -1,14 +1,6 @@
-Welcome to App Maker Help !
+Mee Bot : หมีบอท
 ===================
 
-สำหรับวิธีการใช้งาน สามารถเลือกดูได้จากเมนูด้านขวามือ
+The Simplified LINE Messaging SDK :)
 
-ยังไม่เสร็จ -.-
-
-/**
- * ENE Co-op study at AIS
- *
- * By Puri Phakmongkol
- * 56070502439
- *
-**/
+Please Dont forget to edit your Access Token and Chennel Secret at Define Class.
